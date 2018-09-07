@@ -1,0 +1,14 @@
+body{
+	background-image: url(http://www.wp7connect.com/wp-content/uploads/2011/06/nba-game-time-icon.png);
+	text-align: center;
+}
+
+.text-muted{
+	color: red;
+}
+.last-seconds{
+  color: green;
+}
+.option{
+  margin: 15px;
+}
